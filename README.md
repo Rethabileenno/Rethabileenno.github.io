@@ -1,7 +1,7 @@
 # Rethabileenno.github.io
 INDIVIDUAL PROJECTS 
 
-This respository contains my projects file of the recreaction of the form and CV uisng HTML only
+This respository contains my projects file of the recreaction of the form and CV using HTML only
 
 Tech stack- HTML only 
 
